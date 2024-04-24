@@ -15,7 +15,7 @@ The official implementation of SeMAIL.
 
 
 ```
-conda env create -f SeMAIL.yaml
+conda env create -f semail.yaml
 conda activate SeMAIL
 ```
 
